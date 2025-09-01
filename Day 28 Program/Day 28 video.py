@@ -2,8 +2,8 @@
 # importing webbrowser
 import webbrowser
 # open a video with usr 
-day_5= webbrowser.open("https://www.youtube.com/embed/qxPMmW93eDs")
+day_28= webbrowser.open("https://www.youtube.com/embed/ixmxgUf8yIg")
 
 # json file code 
 
-#{"embedUrl": "https://www.youtube.com/embed/qxPMmW93eDs"}
+#{"embedUrl": "https://www.youtube.com/embed/ixmxgUf8yIg"}
