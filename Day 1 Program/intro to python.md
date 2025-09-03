@@ -36,3 +36,5 @@ This 100 days of code series will help you learn python from starting to the end
 - For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.
 
 ## [Next Lesson>>](https://replit.com/@codewithharry/02-Day2-Application-of-Python#.tutorial/Tutorial.md)
+
+
